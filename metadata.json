@@ -1,0 +1,7 @@
+{
+  "name": "Tequila 45 Mexican Restaurant",
+  "description": "A high-end landing page for Tequila 45 Mexican Restaurant in Houston, featuring AI-generated specials and full contact details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
